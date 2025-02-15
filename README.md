@@ -22,17 +22,15 @@
 
 👋 Hi! I'm **Umar Sandhu**, a **passionate full-stack web developer** with a strong interest in **UI/UX, scalable web applications, and modern frontend frameworks**. I enjoy **solving real-world problems through code** and **creating seamless user experiences**.  
 
-- 🎓 **Education:** Bachelor's in **Information Technology** from *Islamia University of Bahawalpur (IUB)*  
+  
 - 💻 **Current Focus:** Improving **UI/UX skills** & mastering **advanced web development**  
 - 🔭 **Working on:** A **Department Management System** with **React, Node.js, and TypeScript**  
 - 📜 **Past Experience:** Worked on **SEO, graphic design, and web UI development**, helping me build better, **user-friendly web applications**  
 - 🏆 **Skills & Expertise:** **Full-stack development, React, Node.js, TypeScript, and scalable architecture**  
 - 🎯 **Goal:** To **build high-performance, accessible, and impactful web applications**  
 - 🌱 **Learning:** Deep diving into **Docker, microservices, and system design patterns**  
-- 🤝 **Looking to collaborate?** Open to **exciting projects, startups, and freelance opportunities**  
-- 🎵 **Hobbies:** I love **music (Desi Hip-Hop), tech discussions, and exploring new frameworks**  
-- 💡 **Fun Fact:** I’m always up for **a good laugh in Punjabi!** 😆  
-
+- 🤝 **Looking to collaborate?** Open to **exciting projects, startups, and freelance opportunities**
+  
 📫 **Want to chat?** Drop me an email: **[umarabdullah.work@gmail.com](mailto:umarabdullah.work@gmail.com)**  
 
 ---
