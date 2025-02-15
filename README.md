@@ -20,7 +20,7 @@
 
 ## 🚀 About Me  
 
-👋 Hi! I'm **Umar Sandhu**, a **passionate full-stack web developer** with a strong interest in **UI/UX, scalable web applications, and modern frontend frameworks**. I enjoy **solving real-world problems through code** and **creating seamless user experiences**.  
+👋 Hi! I'm **Umar Abdullah**, a **passionate full-stack web developer** with a strong interest in **UI/UX, scalable web applications, and modern frontend frameworks**. I enjoy **solving real-world problems through code** and **creating seamless user experiences**.  
 
   
 - 💻 **Current Focus:** Improving **UI/UX skills** & mastering **advanced web development**  
