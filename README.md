@@ -41,7 +41,7 @@
 const Umar Abdullah  = {
   pronouns: "he" | "him",
   code: [JavaScript, TypeScript, HTML, CSS, Python],
-  tools: [React, Next.js, Node.js, Tailwind CSS, Docker, Jest],
+  tools: [React, Next.js, Node.js, Tailwind CSS, Docker, Figma],
   },
   challenge: "I am currently improving my UI/UX skills and mastering advanced web development."
 };
