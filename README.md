@@ -6,11 +6,11 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Umar+Abdullah!;Full+Stack+Web+Developer+💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Umar+Abdullah!;Developer+💻;" />
 </h1>
 
-<h3 align="center">Full Stack Web Developer from Pakistan 🇵🇰</h3>
-<h4 align="center">Building Responsive & Scalable Web Applications</h4>
+<h3 align="center">Developer from Pakistan 🇵🇰</h3>
+<h4 align="center">Building Responsive & Scalable Applications</h4>
 
 <p align="center">
   <a href="https://linkedin.com/in/umarabdullah991"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
